@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/bin/Debug/net5.0/DiagonalDifference
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/bin/Debug/net5.0/DiagonalDifference.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/bin/Debug/net5.0/DiagonalDifference.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/bin/Debug/net5.0/DiagonalDifference.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/bin/Debug/net5.0/DiagonalDifference.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/bin/Debug/net5.0/ref/DiagonalDifference.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/bin/Debug/net5.0/DiagonalDifference.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/obj/Debug/net5.0/DiagonalDifference.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/obj/Debug/net5.0/DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/obj/Debug/net5.0/DiagonalDifference.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/obj/Debug/net5.0/DiagonalDifference.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/obj/Debug/net5.0/DiagonalDifference.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/obj/Debug/net5.0/DiagonalDifference.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/obj/Debug/net5.0/ref/DiagonalDifference.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/obj/Debug/net5.0/DiagonalDifference.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/DiagonalDifference/obj/Debug/net5.0/DiagonalDifference.genruntimeconfig.cache
