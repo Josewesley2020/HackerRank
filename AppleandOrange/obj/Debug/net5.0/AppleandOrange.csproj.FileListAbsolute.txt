@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/bin/Debug/net5.0/AppleandOrange
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/bin/Debug/net5.0/AppleandOrange.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/bin/Debug/net5.0/AppleandOrange.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/bin/Debug/net5.0/AppleandOrange.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/bin/Debug/net5.0/AppleandOrange.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/bin/Debug/net5.0/ref/AppleandOrange.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/bin/Debug/net5.0/AppleandOrange.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/obj/Debug/net5.0/AppleandOrange.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/obj/Debug/net5.0/AppleandOrange.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/obj/Debug/net5.0/AppleandOrange.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/obj/Debug/net5.0/AppleandOrange.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/obj/Debug/net5.0/AppleandOrange.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/obj/Debug/net5.0/AppleandOrange.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/obj/Debug/net5.0/ref/AppleandOrange.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/obj/Debug/net5.0/AppleandOrange.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/AppleandOrange/obj/Debug/net5.0/AppleandOrange.genruntimeconfig.cache
