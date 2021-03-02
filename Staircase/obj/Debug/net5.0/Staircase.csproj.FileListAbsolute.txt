@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/bin/Debug/net5.0/Staircase
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/bin/Debug/net5.0/Staircase.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/bin/Debug/net5.0/Staircase.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/bin/Debug/net5.0/Staircase.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/bin/Debug/net5.0/Staircase.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/bin/Debug/net5.0/ref/Staircase.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/bin/Debug/net5.0/Staircase.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/obj/Debug/net5.0/Staircase.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/obj/Debug/net5.0/Staircase.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/obj/Debug/net5.0/Staircase.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/obj/Debug/net5.0/Staircase.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/obj/Debug/net5.0/Staircase.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/obj/Debug/net5.0/Staircase.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/obj/Debug/net5.0/ref/Staircase.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/obj/Debug/net5.0/Staircase.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/Staircase/obj/Debug/net5.0/Staircase.genruntimeconfig.cache
