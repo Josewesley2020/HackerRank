@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/bin/Debug/net5.0/MiniMaxSum
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/bin/Debug/net5.0/MiniMaxSum.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/bin/Debug/net5.0/MiniMaxSum.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/bin/Debug/net5.0/MiniMaxSum.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/bin/Debug/net5.0/MiniMaxSum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/bin/Debug/net5.0/ref/MiniMaxSum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/bin/Debug/net5.0/MiniMaxSum.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/obj/Debug/net5.0/ref/MiniMaxSum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/MiniMaxSum/obj/Debug/net5.0/MiniMaxSum.genruntimeconfig.cache
