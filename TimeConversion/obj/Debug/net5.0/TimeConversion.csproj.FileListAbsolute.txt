@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/bin/Debug/net5.0/TimeConversion
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/bin/Debug/net5.0/TimeConversion.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/bin/Debug/net5.0/TimeConversion.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/bin/Debug/net5.0/TimeConversion.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/bin/Debug/net5.0/TimeConversion.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/bin/Debug/net5.0/ref/TimeConversion.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/bin/Debug/net5.0/TimeConversion.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/obj/Debug/net5.0/TimeConversion.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/obj/Debug/net5.0/TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/obj/Debug/net5.0/TimeConversion.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/obj/Debug/net5.0/TimeConversion.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/obj/Debug/net5.0/TimeConversion.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/obj/Debug/net5.0/TimeConversion.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/obj/Debug/net5.0/ref/TimeConversion.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/obj/Debug/net5.0/TimeConversion.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/TimeConversion/obj/Debug/net5.0/TimeConversion.genruntimeconfig.cache
