@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/bin/Debug/net5.0/BreakingtheRecords
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/bin/Debug/net5.0/BreakingtheRecords.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/bin/Debug/net5.0/BreakingtheRecords.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/bin/Debug/net5.0/BreakingtheRecords.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/bin/Debug/net5.0/BreakingtheRecords.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/bin/Debug/net5.0/ref/BreakingtheRecords.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/bin/Debug/net5.0/BreakingtheRecords.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/obj/Debug/net5.0/BreakingtheRecords.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/obj/Debug/net5.0/BreakingtheRecords.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/obj/Debug/net5.0/BreakingtheRecords.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/obj/Debug/net5.0/BreakingtheRecords.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/obj/Debug/net5.0/BreakingtheRecords.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/obj/Debug/net5.0/BreakingtheRecords.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/obj/Debug/net5.0/ref/BreakingtheRecords.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/obj/Debug/net5.0/BreakingtheRecords.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BreakingtheRecords/obj/Debug/net5.0/BreakingtheRecords.genruntimeconfig.cache
