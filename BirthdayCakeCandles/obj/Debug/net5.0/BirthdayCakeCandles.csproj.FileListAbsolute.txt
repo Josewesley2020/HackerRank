@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/bin/Debug/net5.0/BirthdayCakeCandles
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/bin/Debug/net5.0/BirthdayCakeCandles.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/bin/Debug/net5.0/BirthdayCakeCandles.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/bin/Debug/net5.0/BirthdayCakeCandles.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/bin/Debug/net5.0/BirthdayCakeCandles.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/bin/Debug/net5.0/ref/BirthdayCakeCandles.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/bin/Debug/net5.0/BirthdayCakeCandles.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/obj/Debug/net5.0/BirthdayCakeCandles.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/obj/Debug/net5.0/BirthdayCakeCandles.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/obj/Debug/net5.0/BirthdayCakeCandles.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/obj/Debug/net5.0/BirthdayCakeCandles.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/obj/Debug/net5.0/BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/obj/Debug/net5.0/BirthdayCakeCandles.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/obj/Debug/net5.0/ref/BirthdayCakeCandles.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/obj/Debug/net5.0/BirthdayCakeCandles.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/BirthdayCakeCandles/obj/Debug/net5.0/BirthdayCakeCandles.genruntimeconfig.cache
