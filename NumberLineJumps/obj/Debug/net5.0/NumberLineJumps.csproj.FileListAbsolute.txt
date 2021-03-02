@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/bin/Debug/net5.0/NumberLineJumps
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/bin/Debug/net5.0/NumberLineJumps.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/bin/Debug/net5.0/NumberLineJumps.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/bin/Debug/net5.0/NumberLineJumps.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/bin/Debug/net5.0/NumberLineJumps.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/bin/Debug/net5.0/ref/NumberLineJumps.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/bin/Debug/net5.0/NumberLineJumps.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/obj/Debug/net5.0/NumberLineJumps.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/obj/Debug/net5.0/NumberLineJumps.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/obj/Debug/net5.0/NumberLineJumps.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/obj/Debug/net5.0/NumberLineJumps.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/obj/Debug/net5.0/NumberLineJumps.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/obj/Debug/net5.0/NumberLineJumps.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/obj/Debug/net5.0/ref/NumberLineJumps.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/obj/Debug/net5.0/NumberLineJumps.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/NumberLineJumps/obj/Debug/net5.0/NumberLineJumps.genruntimeconfig.cache
