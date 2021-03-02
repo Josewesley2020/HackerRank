@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/home/juliana/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/A_VeryBigSum.csproj",
+      "projectName": "A_VeryBigSum",
+      "projectPath": "/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/A_VeryBigSum.csproj",
+      "packagesPath": "/home/juliana/.nuget/packages/",
+      "outputPath": "/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/juliana/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/112/sdk/5.0.103/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

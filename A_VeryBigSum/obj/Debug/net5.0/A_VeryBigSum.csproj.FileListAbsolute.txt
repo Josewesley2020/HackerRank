@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/bin/Debug/net5.0/A_VeryBigSum
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/bin/Debug/net5.0/A_VeryBigSum.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/bin/Debug/net5.0/A_VeryBigSum.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/bin/Debug/net5.0/A_VeryBigSum.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/bin/Debug/net5.0/A_VeryBigSum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/bin/Debug/net5.0/ref/A_VeryBigSum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/bin/Debug/net5.0/A_VeryBigSum.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/obj/Debug/net5.0/A_VeryBigSum.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/obj/Debug/net5.0/A_VeryBigSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/obj/Debug/net5.0/A_VeryBigSum.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/obj/Debug/net5.0/A_VeryBigSum.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/obj/Debug/net5.0/A_VeryBigSum.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/obj/Debug/net5.0/A_VeryBigSum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/obj/Debug/net5.0/ref/A_VeryBigSum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/obj/Debug/net5.0/A_VeryBigSum.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/A_VeryBigSum/obj/Debug/net5.0/A_VeryBigSum.genruntimeconfig.cache
