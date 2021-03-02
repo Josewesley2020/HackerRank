@@ -45,9 +45,9 @@ The fifth line contains n space-separated integers denoting the respective dista
 
 **Constraints**
 
-* *1 <= s,t,a,b,m,n <= 10³
+* * 1 <= s,t,a,b,m,n <= 10³
 * * -10³ <= d <= 10³
-*  *a < s < t < b
+* * a < s < t < b
 
 **Output Format** 
 
