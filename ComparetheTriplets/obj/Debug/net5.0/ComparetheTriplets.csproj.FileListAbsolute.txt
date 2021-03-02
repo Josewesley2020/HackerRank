@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/bin/Debug/net5.0/ComparetheTriplets
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/bin/Debug/net5.0/ComparetheTriplets.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/bin/Debug/net5.0/ComparetheTriplets.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/bin/Debug/net5.0/ComparetheTriplets.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/bin/Debug/net5.0/ComparetheTriplets.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/bin/Debug/net5.0/ref/ComparetheTriplets.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/bin/Debug/net5.0/ComparetheTriplets.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/obj/Debug/net5.0/ComparetheTriplets.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/obj/Debug/net5.0/ComparetheTriplets.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/obj/Debug/net5.0/ComparetheTriplets.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/obj/Debug/net5.0/ComparetheTriplets.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/obj/Debug/net5.0/ComparetheTriplets.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/obj/Debug/net5.0/ComparetheTriplets.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/obj/Debug/net5.0/ref/ComparetheTriplets.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/obj/Debug/net5.0/ComparetheTriplets.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/ComparetheTriplets/obj/Debug/net5.0/ComparetheTriplets.genruntimeconfig.cache
