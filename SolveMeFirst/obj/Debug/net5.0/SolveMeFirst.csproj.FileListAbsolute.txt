@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/obj/Debug/net5.0/SolveMeFirst.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/obj/Debug/net5.0/SolveMeFirst.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/obj/Debug/net5.0/SolveMeFirst.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/obj/Debug/net5.0/SolveMeFirst.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/obj/Debug/net5.0/SolveMeFirst.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/bin/Debug/net5.0/SolveMeFirst
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/bin/Debug/net5.0/SolveMeFirst.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/bin/Debug/net5.0/SolveMeFirst.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/bin/Debug/net5.0/SolveMeFirst.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/bin/Debug/net5.0/SolveMeFirst.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/bin/Debug/net5.0/ref/SolveMeFirst.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/bin/Debug/net5.0/SolveMeFirst.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/obj/Debug/net5.0/SolveMeFirst.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/obj/Debug/net5.0/ref/SolveMeFirst.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/obj/Debug/net5.0/SolveMeFirst.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SolveMeFirst/obj/Debug/net5.0/SolveMeFirst.genruntimeconfig.cache
