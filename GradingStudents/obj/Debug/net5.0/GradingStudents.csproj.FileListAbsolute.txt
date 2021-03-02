@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/bin/Debug/net5.0/GradingStudents
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/bin/Debug/net5.0/GradingStudents.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/bin/Debug/net5.0/GradingStudents.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/bin/Debug/net5.0/GradingStudents.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/bin/Debug/net5.0/GradingStudents.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/bin/Debug/net5.0/ref/GradingStudents.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/bin/Debug/net5.0/GradingStudents.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/obj/Debug/net5.0/GradingStudents.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/obj/Debug/net5.0/GradingStudents.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/obj/Debug/net5.0/GradingStudents.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/obj/Debug/net5.0/GradingStudents.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/obj/Debug/net5.0/GradingStudents.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/obj/Debug/net5.0/GradingStudents.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/obj/Debug/net5.0/ref/GradingStudents.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/obj/Debug/net5.0/GradingStudents.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/GradingStudents/obj/Debug/net5.0/GradingStudents.genruntimeconfig.cache
