@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/bin/Debug/net5.0/PlusMinus
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/bin/Debug/net5.0/PlusMinus.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/bin/Debug/net5.0/PlusMinus.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/bin/Debug/net5.0/PlusMinus.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/bin/Debug/net5.0/PlusMinus.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/bin/Debug/net5.0/ref/PlusMinus.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/bin/Debug/net5.0/PlusMinus.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/obj/Debug/net5.0/PlusMinus.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/obj/Debug/net5.0/PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/obj/Debug/net5.0/PlusMinus.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/obj/Debug/net5.0/PlusMinus.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/obj/Debug/net5.0/PlusMinus.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/obj/Debug/net5.0/PlusMinus.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/obj/Debug/net5.0/ref/PlusMinus.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/obj/Debug/net5.0/PlusMinus.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/PlusMinus/obj/Debug/net5.0/PlusMinus.genruntimeconfig.cache
