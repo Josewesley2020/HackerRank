@@ -1,0 +1,16 @@
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/bin/Debug/net5.0/SimpleArraySum
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/bin/Debug/net5.0/SimpleArraySum.deps.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/bin/Debug/net5.0/SimpleArraySum.runtimeconfig.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/bin/Debug/net5.0/SimpleArraySum.runtimeconfig.dev.json
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/bin/Debug/net5.0/SimpleArraySum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/bin/Debug/net5.0/ref/SimpleArraySum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/bin/Debug/net5.0/SimpleArraySum.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/obj/Debug/net5.0/SimpleArraySum.csprojAssemblyReference.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/obj/Debug/net5.0/SimpleArraySum.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/obj/Debug/net5.0/SimpleArraySum.AssemblyInfoInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/obj/Debug/net5.0/SimpleArraySum.AssemblyInfo.cs
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/obj/Debug/net5.0/SimpleArraySum.csproj.CoreCompileInputs.cache
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/obj/Debug/net5.0/SimpleArraySum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/obj/Debug/net5.0/ref/SimpleArraySum.dll
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/obj/Debug/net5.0/SimpleArraySum.pdb
+/home/juliana/Área de Trabalho/Desafior_HackerRank/SimpleArraySum/obj/Debug/net5.0/SimpleArraySum.genruntimeconfig.cache
